@@ -1,0 +1,14 @@
+# Data path
+train: F:\yolov9-main\Dataset\coco\selected_images.txt  # train images (relative to 'path') 118287 images
+val: F:\yolov9-main\Dataset\coco\val.txt  # val images (relative to 'path') 5000 images
+test: F:\yolov9-main\Dataset\coco\test.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# num of Classes
+nc: 3
+
+# Class name
+names: ['red', 'yellow', 'gray']
+
+
+
+
